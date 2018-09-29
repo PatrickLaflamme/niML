@@ -1,5 +1,5 @@
 # Install nim
-FROM nimlang/nim:0.19.0:onbuild
+FROM nimlang/nim:0.19.0-onbuild
 
 RUN nimble install
 
