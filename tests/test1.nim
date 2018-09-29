@@ -1,4 +1,4 @@
 
-import niML
+import nimml
 
-doAssert(niML.test == 2)
+doAssert(nimml.test == 2)
