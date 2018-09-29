@@ -1,2 +1,2 @@
 # niML
-machine learning module for nim
+The machine learning module for nim.
