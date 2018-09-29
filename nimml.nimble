@@ -6,7 +6,7 @@ description   = "The nimble machine learning package"
 license       = "Apache2"
 srcDir        = "src"
 binDir        = "bin"
-bin           = @["niML"]
+bin           = @["nimml"]
 
 # Dependencies
 
